@@ -10,12 +10,19 @@ Hi, I'm Mukti Kumari
  1. Tech Stack:
 
 -Java
+
 -Python
+
 -JavaScript
+
 -HTML
+
 -CSS
+
 -Firebase
+
 -Git
+
 -GitHub
 
 2. Currently focused on:
