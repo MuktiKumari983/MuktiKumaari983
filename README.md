@@ -1,4 +1,4 @@
-Hi, I'm Mukti Kumari 
+## Hi, I'm Mukti Kumari 
 
 - B.Tech CSE Student
 - Aspiring Software Development Engineer (SDE)
@@ -7,27 +7,27 @@ Hi, I'm Mukti Kumari
 - AWS Cloud Club Core Team Member
 - Team Lead - Google Solution Challenge 2026
 
- 1. Tech Stack:
+ ## Tech Stack
 
--Java
--Python
--JavaScript
--HTML
--CSS
--Firebase
--Git
--GitHub
+- Java
+- Python
+- JavaScript
+- HTML
+- CSS
+- Firebase
+- Git
+- GitHub
 
-2. Currently focused on:
+## Currently Focused On
+
 - DSA in Java
 - Software Engineering Fundamentals
 - Building Scalable Applications
 - Google Internship Preparation
 
-3. Connect With Me:
+## Connect With Me
 
--LinkedIn: linkedin.com/in/your-profile
-
--Email: kumarimukti789@gmail.com
+- LinkedIn:https://www.linkedin.com/in/mukti-kumari-b64306363
+- Email: kumarimukti789@gmail.com
 
   
