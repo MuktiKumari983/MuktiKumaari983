@@ -7,7 +7,7 @@ Hi, I'm Mukti Kumari
 - AWS Cloud Club Core Team Member
 - Team Lead - Google Solution Challenge 2026
 
- • Tech Stack:
+ 1. Tech Stack:
 -Java
 -Python
 -JavaScript
@@ -17,14 +17,16 @@ Hi, I'm Mukti Kumari
 -Git
 -GitHub
 
-• Currently focused on:
+2. Currently focused on:
 - DSA in Java
 - Software Engineering Fundamentals
 - Building Scalable Applications
 - Google Internship Preparation
 
-• Connect With Me:
+3. Connect With Me:
+
 -LinkedIn: linkedin.com/in/your-profile
+
 -Email: kumarimukti789@gmail.com
 
   
